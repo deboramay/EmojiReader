@@ -1,2 +1,2 @@
 # EmojiReader
-Study project #3
+Study project #3 (Table View)
